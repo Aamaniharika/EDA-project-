@@ -1,1 +1,1 @@
-this project is mainly regarding pre forest or analysis of AIr bnb room booking
+This project is mainly regarding best location to expand business for Air bnb using data analysis
